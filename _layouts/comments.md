@@ -3,7 +3,7 @@ layout: default
 title: Comments
 ---
 
-# Comments
+## Comments
 
 Short observations, notes, and responses.
 
