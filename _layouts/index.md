@@ -8,11 +8,8 @@
   </div>
 </div>
 
-## Writing
+### Get it touch
 
-- [Essays and notes](essays)
-
-## Other
-
-- [Curriculum vitae](cv)
-- [Comments](comments)
+<p>gwyess@g.ucla.edu
+<p>www.linkedin.com/in/georgiawyess
+<p>https://x.com/georgiawyess
