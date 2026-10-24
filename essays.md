@@ -2,5 +2,5 @@
 
 Here you will find a collection of essays written by me regarding various topics. 
 
-- [What AI Diagnosed](#)
+- [What AI Diagnosed](essays/what_ai_diagnosed.md)
 - 
