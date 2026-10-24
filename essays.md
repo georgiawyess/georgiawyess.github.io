@@ -1,12 +1,6 @@
----
-layout: default
-title: Essays
----
+<h2>Essays</h2>
 
-# Essays
+Here you will find a collection of essays written by me regarding various topics. 
 
-A collection of essays and notes.
-
-- [First essay](#)
-- [Second essay](#)
-- [Third essay](#)
+- [What AI Diagnosed](#)
+- 
