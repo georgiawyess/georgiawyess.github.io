@@ -1,1 +1,1 @@
-<a href="Georgia_Wyess_CV.pdf" target="_blank">CV</a>
+<a href="curriculum_vitae.pdf" target="_blank">CV</a>
