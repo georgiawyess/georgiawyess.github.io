@@ -3,7 +3,6 @@ your-website/
 ├── _layouts/
 │   └── default.html
 ├── index.md
-├── about.md
 ├── cv.md
 ├── essays.md
 ├── comments.md
