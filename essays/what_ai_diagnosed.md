@@ -1,7 +1,18 @@
-##What AI Diagnosed
+<h2>Georgia Wyess</h2>
+
+  <a href="/">Home</a> |
+  <a href="/essays">Essays</a> |
+  <a href="/cv">CV</a> |
+  <a href="/comments">Comments</a>
+</nav>
+
+<hr>
+
+**What AI Diagnosed**
 
 October 2026
-Georgia Wyess
+
+
 
 Right after I finished college I worked two jobs: one as a mathematics teacher, and one as a Program Coordinator at a local community college. Both jobs meant that I went from being a student, to being the one running a classroom without much turnaround time.
 
@@ -15,6 +26,7 @@ Both claims really bothered me but I couldn’t quite explain why. I spent a lot
 There are two causes that are driving the decline in critical thought and neither of them has to do with the availability of new technology. The first is that colleges have stopped being optional and instead are now seen as a minimum achievement. The second is that even before college, memorization and repetition are natural byproducts of the structure of our education, and that thinking was never a cultivated skill.
 
 —
+
 Before considering the role AI plays in a college, you need to ask why people are going at all. 
 
 Not too long ago, people could buy a home, support a family, and live a good life on a blue-collar salary. You didn’t have to have a college degree. If college didn’t seem like the right path for you, it was perfectly okay to take over the family business or go to trade school, and no one thought less of you for making that choice. 
@@ -38,6 +50,7 @@ Colleges never changes much. The institutions that once valued critical thinking
 You see this reflected in the work that has been produced over the years. In conversation with some of my old professors, they admitted to me that over the course of their tenure, they’ve seen the novelty of undergraduate ideas decline. On writing assignments or research projects, the same ideas are repeated almost year-by-year, across different courses. Students are echoing back the ideas of the professors, and checking the boxes that’ll guarantee an A. And this all started before AI became available to the public.
 
 —
+
 This loss of novelty is what a lot of professors mean when they worry about critical thinking: student’s aren’t engaging in or challenging ideas the way they used to. Given that, I’d define critical thinking not only as evaluating ideas, but also as the ability to produce something that wasn’t handed to you. Now it’s commonplace in classrooms for students to wait for answers that they can give back on tests, and no one is coming to their own arguments that are actually interesting.
 
 What’s underneath this is that we don’t actually teach students how to be critical thinkers at all. Not in college, and not before. Colleges used to be institutions where the natural critical thinkers would self-select for attendance so it never needed to be taught, while K-12 schools train students to absorb information and repeat memorized facts on tests. Our education teaches recall, not thought. 
@@ -55,6 +68,7 @@ What you get is hollow thinking. Students are checking rubrics and collecting po
 School has always been performance, and even top performers are just better at playing their part. It might sound like a contradiction to what I said about college being full of original thinkers before but I don’t think it really does. I suspect that college never actually taught critical thinking so much as it attracted the people who already did it, and enjoyed it. The students who selected college over employment when attendance was optional had the habit of critical thinking ingrained in them. When college became mandatory, the filter disappeared and colleges became flooded with actors playing their role.
 
 —
+
 Now introduce AI into the conversation. 
 
 Students have spent over a decade learning that producing a single correct output is the goal of any assignment; the thinking isn’t important to the process {4}. When you hand someone a machine that completes this task instantly, it would be ludicrous not to use it. AI isn’t taking student’s ability to think. It’s saving them time and removing the road block in front of them that is the given assignment. The thinking that educators had believed they were cultivating through assignments and projects was never there, it was predetermined ideas rearranged into a coherent essay by someone who had become a master at doing so. AI just makes the rearranging automatic.
@@ -74,7 +88,11 @@ So if you want to solve the current problem, you need to begin with why AI was s
 So how do we fix this problem? The truth is, I really don’t know. Do we give students a reason to use AI less? Do we convince them that thinking is really valuable? How do we teach them to use this new technology without temping them to give into it completely? My experiment with removing a letter grade from assignments didn’t work, but I think it aimed at the right problem. That problem was never the tool, it’s the outcome that we’ve taught students to reach for.
 
 __
+
 1: I also want to note that a part of the reason college was so coveted was because it wasn’t open to the public. It used to be a place only the elite could afford to to go school while others had to enter into work immediately.
+
 2: The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates
+
 3: There are also those students who don’t care about grades and these are the ones that will frequently end up skipping and such
+
 4: You see this happen on tests as well. It absolutely blows my mind why some students on math tests will go through the trouble of showing their work and then erase everything and leave only the boxed answer. We’ve convinced them that the teachers care only about the correct output and how they got to the solution — their thinking process — is completely unimportant. 
