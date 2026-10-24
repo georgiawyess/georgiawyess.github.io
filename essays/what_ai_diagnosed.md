@@ -19,7 +19,7 @@ Right after I finished college I worked two jobs: one as a mathematics teacher, 
 At the start of the spring semester, I was invited to a seminar for teachers and administrators that focused on AI in the classroom. I was new — both to teaching and to guiding college programs — and had gone mostly to listen. At one point the session leaders passed out sticky notes and stickers and had us write down what we thought AI’s biggest impact on students would be; we’d then walk around and stick them on poster boards with topics that matched our note, and also encouraged to place stickers next to those notes we agreed with. Unsurprisingly, the note that received the most stickers was the following: 
 
 <div class="intro">
-  <img src="/R1-06381-0034.JPG" alt="Photo of Georgia Wyess" class="profile-photo" style="width: 400px; height: auto; filter: brightness(3.0);  margin-right: 100px;"">
+  <img src="/criticalthinking.jpg" alt="Photo of Georgia Wyess" class="profile-photo" style="width: 300px; height: auto; filter: brightness(3.0);  margin-right: 100px;"">
   <div>
 
 
