@@ -10,4 +10,4 @@
 <hr>
 
 <h3>Comments</h3>
-- [Writing to think]
+- [What AI Diagnosed](essays/what_ai_diagnosed.md)
