@@ -16,10 +16,10 @@ October 2026
 
 Right after I finished college I worked two jobs: one as a mathematics teacher, and one as a Program Coordinator at a local community college. Both jobs meant that I went from being a student, to being the one running a classroom without much turnaround time.
 
-At the start of the spring semester, I was invited to a seminar for teachers and administrators that focused on AI in the classroom. I was new — both to teaching and to guiding college programs — and had gone mostly to listen. At one point the session leaders passed out sticky notes and stickers and had us write down what we thought AI’s biggest impact on students would be; we’d then walk around and stick them on poster boards with topics that matched our note, and also encouraged to place stickers next to those notes we agreed with. Unsurprisingly, the note that received the most stickers was the following: 
+At the start of the spring semester, I was invited to a seminar for teachers and administrators that focused on AI in the classroom. I was new — both to teaching and to guiding college programs — and had gone mostly to listen. At one point the session leaders passed out sticky notes and stickers and had us write down what we thought AI’s biggest impact on students would be; we’d then walk around and stick them on poster boards with topics that matched our note, and also encouraged to place stickers next to those notes we agreed with. Unsurprisingly, the two notes that received the most stickers was the following: 
 
 <div class="intro">
-  <img src="/criticalthinking.jpg" alt="Photo of Georgia Wyess" class="profile-photo" style="width: 300px; height: auto; filter: brightness(3.0);  margin-right: 100px;"">
+  <img src="/criticalthinking.jpg" alt="Photo of Georgia Wyess" class="profile-photo" style="width: 300px; height: auto; filter: brightness(3.0);  margin-right: 100px;">
   <div>
 
 
@@ -39,7 +39,7 @@ Employers, however, were simultaneously screening for people with degrees, espec
 
 You could be a particularly good employee without a college background: you could follow instruction, provide support where needed, be timely, and stay out of trouble. This does have inherent value; after all, businesses need a workforce to execute goals. But profitability doesn’t lie only in carrying out objectives, it also needs to produce growth, and growth is often driven by those people who can figure out what no one has told them. At the time, when college was still optional, the people who were college graduates were also a large proportion of the “growth” population. They attended schools because they took ideas and questioning the status quo seriously, they wanted to be in places where they were encouraged to be contrarian, and these people are also the ones that often excel in positions on leadership and direction — particularly because you need to have an inherent drive to work towards goals that no one has defined, and contrarians are quite good at this {1}.
 
-The degree soon became a signal, and it was an unusually good one because it was too expensive to fake. For employers it didn’t matter what your degree was in, what mattered is that you had a college degree. And this is the same narrative that a lot of my teachers ingrained in me during my early education: it doesn’t matter what you study, go to college if you want to be successful. 
+The degree soon became a signal, and it was an unusually good one because it was too expensive to fake {2}. For employers it didn’t matter what your degree was in, what mattered is that you had a college degree. And this is the same narrative that a lot of my teachers ingrained in me during my early education: it doesn’t matter what you study, go to college if you want to be successful. 
 
 With a signal this powerful, it didn’t take long before people beyond the hiring-world caught on. The youth aren’t stupid. They saw that better-paying positions were made more accessible after graduating from college, and they took the logical next steps: they went. 
 
@@ -47,7 +47,7 @@ So people started going to college at higher rates and eventually the college de
 
 Degrees used to mean that it’s owner chose to challenge themselves for four years with hard thinking when they could have just as easily gotten a job; now it says the owner did what was required of them. These are two very different signals.
 
-Colleges never changes much. The institutions that once valued critical thinking and being at the frontier of novelty still build their practices on these same principles. These ideals worked particularly well when those attending also wanted these ideas to work, now a majority of students, if they’re aware of these definitions at all, are apathetic towards them. People in college go for the grades and diploma that will get them the interview.
+Colleges never changed much. The institutions that once valued critical thinking and being at the frontier of novelty still build their practices on these same principles. These ideals worked particularly well when those attending also wanted these ideas to work, now a majority of students, if they’re aware of these institutional pillars at all, are apathetic towards them. People in college go for the grades and diploma that will get them the interview.
 
 You see this reflected in the work that has been produced over the years. In conversation with some of my old professors, they admitted to me that over the course of their tenure, they’ve seen the novelty of undergraduate ideas decline. On writing assignments or research projects, the same ideas are repeated almost year-by-year, across different courses. Students are echoing back the ideas of the professors, and checking the boxes that’ll guarantee an A. And this all started before AI became available to the public.
 
@@ -93,8 +93,8 @@ __
 
 1: I also want to note that a part of the reason college was so coveted was because it wasn’t open to the public. It used to be a place only the elite could afford to to go school while others had to enter into work immediately.
 
-2: The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates
+2: The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates.
 
-3: There are also those students who don’t care about grades and these are the ones that will frequently end up skipping and such
+3: There are also those students who don’t care about grades; these students present a different case.
 
 4: You see this happen on tests as well. It absolutely blows my mind why some students on math tests will go through the trouble of showing their work and then erase everything and leave only the boxed answer. We’ve convinced them that the teachers care only about the correct output and how they got to the solution — their thinking process — is completely unimportant. 
