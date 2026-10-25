@@ -4,7 +4,7 @@
   <a href="/essays">Essays</a> |
   <a href="/cv">CV</a> |
   <a href="/comments">Comments</a>
-</nav>
+
 
 <hr>
 
