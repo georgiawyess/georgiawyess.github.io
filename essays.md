@@ -1,3 +1,5 @@
+<h2>Georgia Wyess</h2>
+
 <nav>
   <a href="/">Home</a> |
   <a href="/essays">Essays</a> |
@@ -7,6 +9,6 @@
 
 <hr>
 
-<h2>Essays</h2>
+<h3>Essays</h3>
 
 - [What AI Diagnosed](essays/what_ai_diagnosed.md)
