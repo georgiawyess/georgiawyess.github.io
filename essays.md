@@ -1,5 +1,12 @@
-<h2>Essays</h2>
+<nav>
+  <a href="/">Home</a> |
+  <a href="/essays">Essays</a> |
+  <a href="/curriculum_vitae.pdf" target="_blank">CV</a> |
+  <a href="/comments">Comments</a>
+</nav>
 
-Here you will find a collection of essays written by me regarding various topics. 
+<hr>
+
+<h2>Essays</h2>
 
 - [What AI Diagnosed](essays/what_ai_diagnosed.md)
