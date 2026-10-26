@@ -1,5 +1,3 @@
-<h2>Georgia Wyess</h2>
-
 <nav>
   <a href="/">Home</a> |
   <a href="/curriculum_vitae.pdf" target="_blank">CV</a> |
