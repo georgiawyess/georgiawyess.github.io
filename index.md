@@ -26,8 +26,8 @@
 
 <h3>Get in touch</h3>
 
-<p><a href="mailto:gwyess@g.ucla.edu">gwyess@g.ucla.edu</a></p>
+<p><a href="mailto:gwyess@g.ucla.edu" target="_blank">gwyess@g.ucla.edu</a></p>
 
-<p><a href="https://www.linkedin.com/in/georgiawyess">LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/georgiawyess" target="_blank">LinkedIn</a></p>
 
-<p><a href="https://x.com/georgiawyess">X</a></p>
+<p><a href="https://x.com/georgiawyess" target="_blank">X</a></p>
