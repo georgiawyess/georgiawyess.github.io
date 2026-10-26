@@ -9,4 +9,4 @@
 
 <h3>Essays</h3>
 
-<a href="essays/what_ai_diagnosed.md">What AI Diagnosed</a>
+<a href="essays/what_ai_diagnosed.html">What AI Diagnosed</a>
