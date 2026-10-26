@@ -18,9 +18,12 @@
 
 <p>At the start of the spring semester, I was invited to a seminar for teachers and administrators that focused on AI in the classroom. I was new — both to teaching and to guiding college programs — and had gone mostly to listen. At one point the session leaders passed out sticky notes and stickers and had us write down what we thought AI’s biggest impact on students would be; we’d then walk around and stick them on poster boards with topics that matched our note, and also encouraged to place stickers next to those notes we agreed with. Unsurprisingly, the two notes that received the most stickers was the following:</p>
 
-<div class="essay-image" style="display: flex; align-items: flex-start; width: 300px; gap: 30px; margin-top: 30px;">
-  <img src="/criticalthinking.jpg" alt="Sticky notes from the seminar about AI's impact on students">
-</div>
+<div class="essay-image" style="display: flex; align-items: flex-start; gap: 30px; margin-top: 30px;">
+
+  <img
+    src="/criticalthinking.jpg"
+    alt="Sticky notes from the seminar about AI's impact on students"
+    style="width: 300px; height: auto;display: flex; align-items: flex-start; flex-shrink: 0; gap: 30px; margin-top: 30px;">
 
 
 <p>Both claims really bothered me but I couldn’t quite explain why. I spent a lot of time thinking about the claim that critical thinking is threatened by AI, and I finally came to the conclusion that it felt wrong to me because the sticky notes have misordered the sequence of events. The underlying assumption is that students were thinking critically before the release of publicly available LLMs and instructors are fearful that this skill is going to disappear, but the more I consider what was happening before AI entered the conversation the less I believe the former. AI never drove the decline of critical thought, it instead revealed a large flaw in education.</p>
