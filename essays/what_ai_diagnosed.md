@@ -1,3 +1,5 @@
+---
+---
 <nav>
   <a href="/">Home</a> |
   <a href="/curriculum_vitae.pdf" target="_blank">CV</a> |
@@ -21,7 +23,9 @@
   <img
     src="/criticalthinking.jpg"
     alt="Sticky notes from the seminar about AI's impact on students"
-    style="width: 300px; height: auto;display: flex; align-items: flex-start; flex-shrink: 0; gap: 30px; margin-top: 30px;">
+    style="width: 300px; height: auto; display: flex;">
+
+</div>
 
 
 <p>Both claims really bothered me but I couldn’t quite explain why. I spent a lot of time thinking about the claim that critical thinking is threatened by AI, and I finally came to the conclusion that it felt wrong to me because the sticky notes have misordered the sequence of events. The underlying assumption is that students were thinking critically before the release of publicly available LLMs and instructors are fearful that this skill is going to disappear, but the more I consider what was happening before AI entered the conversation the less I believe the former. AI never drove the decline of critical thought, it instead revealed a large flaw in education.</p>
@@ -98,6 +102,6 @@
 <p>2: The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates.</p>
 <p>3: There are also those students who don’t care about grades; these students present a different case. </p>
 <p>4: You see this happen on tests as well. It absolutely blows my mind why some students on math tests will go through the trouble of showing their work and then erase everything and leave only the boxed answer. We’ve convinced them that the teachers care only about the correct output and how they got to the solution — their thinking process — is completely unimportant.</p>
-</section>
+
 
 </article>
