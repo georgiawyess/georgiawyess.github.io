@@ -4,8 +4,8 @@
 <nav>
   <a href="/">Home</a> |
   <a href="/essays">Essays</a> |
-  <a href="/curriculum_vitae.pdf" target="_blank">CV</a> |
-  <a href="/comments">Comments</a>
+  <a href="/comments">Comments</a> |
+  <a href="/curriculum_vitae.pdf" target="_blank">CV</a> 
 </nav>
 
 <hr>
@@ -15,7 +15,7 @@
   <img
     src="/R1-06381-0034.JPG"
     alt="Photo of Georgia Wyess"
-    style="width: 600px; height: auto; filter: brightness(1.5); flex-shrink: 0;">
+    style="width: 600px; height: auto; filter: brightness(1.2); flex-shrink: 0;">
 
   <div>
     <p>Georgia Wyess currently teaches mathematics and has a background in political science research and data analysis. She graduated from the University of California, Los Angeles (UCLA), with a B.A. in political science and departmental honors for her undergraduate thesis, which examined the relationship between district competition and ideological positioning in the U.S. House of Representatives.</p>
