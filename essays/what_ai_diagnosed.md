@@ -18,9 +18,10 @@
 
 <p>At the start of the spring semester, I was invited to a seminar for teachers and administrators that focused on AI in the classroom. I was new — both to teaching and to guiding college programs — and had gone mostly to listen. At one point the session leaders passed out sticky notes and stickers and had us write down what we thought AI’s biggest impact on students would be; we’d then walk around and stick them on poster boards with topics that matched our note, and also encouraged to place stickers next to those notes we agreed with. Unsurprisingly, the two notes that received the most stickers was the following:</p>
 
-<div class="essay-image">
+<div class="essay-image" style="display: flex; align-items: flex-start; width: 300px; gap: 30px; margin-top: 30px;">
   <img src="/criticalthinking.jpg" alt="Sticky notes from the seminar about AI's impact on students">
 </div>
+
 
 <p>Both claims really bothered me but I couldn’t quite explain why. I spent a lot of time thinking about the claim that critical thinking is threatened by AI, and I finally came to the conclusion that it felt wrong to me because the sticky notes have misordered the sequence of events. The underlying assumption is that students were thinking critically before the release of publicly available LLMs and instructors are fearful that this skill is going to disappear, but the more I consider what was happening before AI entered the conversation the less I believe the former. AI never drove the decline of critical thought, it instead revealed a large flaw in education.</p>
 
@@ -36,9 +37,9 @@
 
 <p>Employers, however, were simultaneously screening for people with degrees, especially when it came to positions of executive leadership. It’s worth considering why. If it’s not a requirement for getting a job then it must possess some other intrinsic value. I believe it’s what the degree signaled.</p>
 
-<p>You could be a particularly good employee without a college background: you could follow instruction, provide support where needed, be timely, and stay out of trouble. This does have inherent value; after all, businesses need a workforce to execute goals. But profitability doesn’t lie only in carrying out objectives, it also needs to produce growth, and growth is often driven by those people who can figure out what no one has told them. At the time, when college was still optional, the people who were college graduates were also a large proportion of the “growth” population. They attended schools because they took ideas and questioning the status quo seriously, they wanted to be in places where they were encouraged to be contrarian, and these people are also the ones that often excel in positions on leadership and direction — particularly because you need to have an inherent drive to work towards goals that no one has defined, and contrarians are quite good at this<sup id="ref-1"><a href="#fn-1">1</a></sup>.</p>
+<p>You could be a particularly good employee without a college background: you could follow instruction, provide support where needed, be timely, and stay out of trouble. This does have inherent value; after all, businesses need a workforce to execute goals. But profitability doesn’t lie only in carrying out objectives, it also needs to produce growth, and growth is often driven by those people who can figure out what no one has told them. At the time, when college was still optional, the people who were college graduates were also a large proportion of the “growth” population. They attended schools because they took ideas and questioning the status quo seriously, they wanted to be in places where they were encouraged to be contrarian, and these people are also the ones that often excel in positions on leadership and direction — particularly because you need to have an inherent drive to work towards goals that no one has defined, and contrarians are quite good at this {1}. </p>
 
-<p>The degree soon became a signal, and it was an unusually good one because it was too expensive to fake<sup id="ref-2"><a href="#fn-2">2</a></sup>. For employers it didn’t matter what your degree was in, what mattered is that you had a college degree. And this is the same narrative that a lot of my teachers ingrained in me during my early education: it doesn’t matter what you study, go to college if you want to be successful.</p>
+<p>The degree soon became a signal, and it was an unusually good one because it was too expensive to fake {2}. For employers it didn’t matter what your degree was in, what mattered is that you had a college degree. And this is the same narrative that a lot of my teachers ingrained in me during my early education: it doesn’t matter what you study, go to college if you want to be successful.</p>
 
 <p>With a signal this powerful, it didn’t take long before people beyond the hiring-world caught on. The youth aren’t stupid. They saw that better-paying positions were made more accessible after graduating from college, and they took the logical next steps: they went.</p>
 
@@ -56,7 +57,7 @@
 
 <p>What’s underneath this is that we don’t actually teach students how to be critical thinkers at all. Not in college, and not before. Colleges used to be institutions where the natural critical thinkers would self-select for attendance so it never needed to be taught, while K-12 schools train students to absorb information and repeat memorized facts on tests. Our education teaches recall, not thought.</p>
 
-<p>This happens through the incentive system. Many students learn early on — whether it be pushed by parents, or by peers — that the goal is to get good grades, and unsurprisingly, many of them make those moves that most reliably produces favorable outcomes<sup id="ref-3"><a href="#fn-3">3</a></sup>. Here is where students learn to repeat the opinions of their instructors rather than arguing what you truly believe; or many wait for an opinion to be given to them rather than first deciding what they actually think. Teachers can emphasize the importance of critical thinking to no end, but when a student comes to a crossroads between questioning these ideas and what the grades reward, many will choose the grade. And I don’t think they’re wrong to.</p>
+<p>This happens through the incentive system. Many students learn early on — whether it be pushed by parents, or by peers — that the goal is to get good grades, and unsurprisingly, many of them make those moves that most reliably produces favorable outcomes{3}. Here is where students learn to repeat the opinions of their instructors rather than arguing what you truly believe; or many wait for an opinion to be given to them rather than first deciding what they actually think. Teachers can emphasize the importance of critical thinking to no end, but when a student comes to a crossroads between questioning these ideas and what the grades reward, many will choose the grade. And I don’t think they’re wrong to.</p>
 
 <p>Grades are a great example of where this goal dissonance occurs. The grade is meant to represent how well you understand a subject, yet it’s perceived as an indicator of their worth. To them, a B or better means they’re a “good” student. A low grade doesn’t mean “review” or try a new way of understanding, it means “I’m bad at math.”</p>
 
@@ -72,7 +73,7 @@
 
 <p>Now introduce AI into the conversation.</p>
 
-<p>Students have spent over a decade learning that producing a single correct output is the goal of any assignment; the thinking isn’t important to the process<sup id="ref-4"><a href="#fn-4">4</a></sup>. When you hand someone a machine that completes this task instantly, it would be ludicrous not to use it. AI isn’t taking student’s ability to think. It’s saving them time and removing the road block in front of them that is the given assignment. The thinking that educators had believed they were cultivating through assignments and projects was never there, it was predetermined ideas rearranged into a coherent essay by someone who had become a master at doing so. AI just makes the rearranging automatic.</p>
+<p>Students have spent over a decade learning that producing a single correct output is the goal of any assignment; the thinking isn’t important to the process {4}. When you hand someone a machine that completes this task instantly, it would be ludicrous not to use it. AI isn’t taking student’s ability to think. It’s saving them time and removing the road block in front of them that is the given assignment. The thinking that educators had believed they were cultivating through assignments and projects was never there, it was predetermined ideas rearranged into a coherent essay by someone who had become a master at doing so. AI just makes the rearranging automatic.</p>
 
 <p>Outsourcing thinking has been a long standing practice. The only thing AI has done as of late is make that process instant. The apathy that many college professors are confronted with isn’t a recent phenomenon caused by new technology, it all connects back to how students were taught to “learn” and the necessity of a college education.</p>
 
@@ -90,13 +91,12 @@
 
 <hr>
 
-<section class="footnotes">
-  <ol>
-    <li id="fn-1">I also want to note that a part of the reason college was so coveted was because it wasn’t open to the public. It used to be a place only the elite could afford to to go school while others had to enter into work immediately. <a href="#ref-1">↩</a></li>
-    <li id="fn-2">The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates. <a href="#ref-2">↩</a></li>
-    <li id="fn-3">There are also those students who don’t care about grades; these students present a different case. <a href="#ref-3">↩</a></li>
-    <li id="fn-4">You see this happen on tests as well. It absolutely blows my mind why some students on math tests will go through the trouble of showing their work and then erase everything and leave only the boxed answer. We’ve convinced them that the teachers care only about the correct output and how they got to the solution — their thinking process — is completely unimportant. <a href="#ref-4">↩</a></li>
-  </ol>
+<p class="section-break">—</p>
+
+<p>1: I also want to note that a part of the reason college was so coveted was because it wasn’t open to the public. It used to be a place only the elite could afford to to go school while others had to enter into work immediately.</p>
+<p>2: The pricing is particularly interesting to me because now with college being baseline, what college you go to is very important. Hence schools like the Ivy leagues are very expensive and have particularly low acceptance rates.</p>
+<p>3: There are also those students who don’t care about grades; these students present a different case. </p>
+<p>4: You see this happen on tests as well. It absolutely blows my mind why some students on math tests will go through the trouble of showing their work and then erase everything and leave only the boxed answer. We’ve convinced them that the teachers care only about the correct output and how they got to the solution — their thinking process — is completely unimportant.</p>
 </section>
 
 </article>
