@@ -10,7 +10,7 @@
 <div class="intro" style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 30px;">
 
   <img
-    src="/photos/swedenheadshot.HEIC"
+    src="/R1-06381-0034.JPG"
     alt="Photo of Georgia Wyess"
     style="width: 40%; max-width: 400px; height: auto; filter: brightness(1.2);">
 
