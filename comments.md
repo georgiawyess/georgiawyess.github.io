@@ -9,4 +9,4 @@
 
 <h3>Comments</h3>
 
-<a href="comments /in_defense_of_writing.md">In Defense of Writing</a>
+<a href="comments /in_defense_of_writing">In Defense of Writing</a>
