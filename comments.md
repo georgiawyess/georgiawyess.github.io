@@ -9,3 +9,4 @@
 
 <h3>Comments</h3>
 
+<a href="essays/what_ai_diagnosed.html">In Defense of Writing</a>
