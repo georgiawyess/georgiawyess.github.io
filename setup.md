@@ -6,6 +6,7 @@ your-website/
 ├── cv.md
 ├── essays.md
 ├── comments.md
+├── collections.md
 ├── style.css
 ├── images/
 │   └── me.jpg
