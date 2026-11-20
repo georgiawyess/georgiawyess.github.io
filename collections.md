@@ -54,4 +54,4 @@
 
 <p>---</p>
 
-<p>The Tiger / He destroyed his cage / Yes / YES / The tiger is out. - Nael, <href = https://826dc.org/student-writing/the-tiger/<i>Grade 1</i></p>
+<p>The Tiger / He destroyed his cage / Yes / YES / The tiger is out. - <a href = "https://826dc.org/student-writing/the-tiger/" target ="_blank">Nael, <i>Grade 1</i></a></p> 
