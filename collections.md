@@ -71,5 +71,11 @@
 
 <p>[7] “Opinion is really the lowest form of human knowledge. It requires no accountability, no understanding. The highest form of knowledge is empathy, for it requires us to suspend our egos and live in another’s world. It requires profound purpose larger than the self kind of understanding.” - Bill Bullard</p>
 
+<p>---</p>
+
+<p>[8]</p>
+
+
+
 
 
