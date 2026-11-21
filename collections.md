@@ -58,4 +58,17 @@
 
 <p>---</p>
 
-<p>[6]</p>
+<p>[6] Rendered by me from Paul Graham's essay, <a href = "https://paulgraham.com/conformism.html" target="_blank" <i>The Four Quadrants of Conformism</i></a></p>
+<table>
+  <tr><td>AGGRESIVLY CONVENTIONALLY-MINDED INDIVIDUALS</td><td>AGGRESIVLY INDEPENDENT-MINDED INDIVIDUALS</td></tr>
+  <tr><td>1. Believe the rules must be obeyed and people who disobey these rules should be punished.  2. Dislike outgroups. These are often the "tattletales".</td><td>1. When see a rule, the first impulse is to break it.  2. Often the "naughty" rule breaker types governed by "Eppur si muove"</td></tr>
+  <tr><td>PASSIVELY CONVENTIONALLY-MINDED INDIVIDUALS</td><td>PASSIVELY INDEPENDENT-MINDED INDIVIDUALS</td></tr>
+  <tr><td>1. Obey rules but when others break them they don't worry too much.  2. Usually these are the free thinkers. </td><td>1. <b>Don't</b> care about rules too much and might not know what they are half the time.  2. Usually free thinkers.</td></tr>
+</table>
+
+<p>---</p>
+
+<p>[7] “Opinion is really the lowest form of human knowledge. It requires no accountability, no understanding. The highest form of knowledge is empathy, for it requires us to suspend our egos and live in another’s world. It requires profound purpose larger than the self kind of understanding.” - Bill Bullard</p>
+
+
+
