@@ -12,8 +12,7 @@
 
 <p>The following is a collection of quotes, graphs, and papers that have been compiled by me over the years. This compilation was started in high school with the goal of putting together pieces of wisdom that meant something to me. Gradually, this list has grown and eventually I framed the many pieces of paper and have taken these ideas with me to my college dorm, first apartment, and beyond. I've referenced many of the ideas presented here in conversations amongst friends, and I like to believe that they've shaped a portion of my thinking. These ideas are presented below.</p>
 
-<p>[1] “Every time you victimized someone,” I said, “you were victimizing yourself. Every act of kindness you’ve done, you’ve done to yourself. Every happy and sad moment ever experienced by any human was, or will be, experienced by you.” - Andy Weir, <a href="https://www.galactanet.com/oneoff/theegg_mod.html" target="_blank" <i>The Egg</i></a></p>
-
+<p>[1] “Every time you victimized someone,” I said, “you were victimizing yourself. Every act of kindness you’ve done, you’ve done to yourself. Every happy and sad moment ever experienced by any human was, or will be, experienced by you.” - <a href = "https://www.galactanet.com/oneoff/theegg_mod.html" target ="_blank">Andy Weir, <i>The Egg</i></a></p> 
 <p>---</p>
 
 <p>[2] "Yesterday is history, tomorrow is a mystery, but today is a gift—that's why it is called the present" - Master Oogway, <i>Kung Fu Panda</i></p>
