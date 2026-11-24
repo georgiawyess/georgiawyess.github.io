@@ -15,7 +15,8 @@
 <p>[1] “Every time you victimized someone,” I said, “you were victimizing yourself. Every act of kindness you’ve done, you’ve done to yourself. Every happy and sad moment ever experienced by any human was, or will be, experienced by you.” - <a href = "https://www.galactanet.com/oneoff/theegg_mod.html" target ="_blank">Andy Weir, <i>The Egg</i></a></p> 
 <p>---</p>
 
-<p>[2] "Yesterday is history, tomorrow is a mystery, but today is a gift—that's why it is called the present" - Master Oogway, <i>Kung Fu Panda</i></p>
+<p>[2] Schwartz, Martin A. (2008). The importance of stupidity in scientific research. <i>Journal of Cell Science, 121</i>, 1771. <a href="doi:10.1242/jcs.033340" target="_blank">doi:10.1242/jcs.033340</a></p>
+<p>The ideas in this essay carried me through some of my lowest points in my research. I find this to be good life advice, and something to live by while conducting research across all fields.</p>
 
 <p>---</p>
 
@@ -72,7 +73,16 @@
 
 <p>---</p>
 
-<p>[8]</p>
+<p>[8] If you can talk with crowds and keep your virtue,/ Or walk with Kings—nor lose the common touch,/ If neither foes nor loving friends can hurt you,/ If all men count with you, but none too much;/ If you can fill the unforgiving minute/ With sixty seconds’ worth of distance run,/ Yours is the Earth and everything that’s in it,/ And—which is more—you’ll be a Man, my son!- <a href = "https://www.poetryfoundation.org/poems/46473/if---" target ="_blank">Rudyard Kipling, <i>If</i></a></p>
+<p><i>Really, I have the entire poem written and posted; however, I find myself thinking about this final refrain quite frequently.</i></p>
+
+<p>---</p>
+
+<p>[9] "Yesterday is history, tomorrow is a mystery, but today is a gift—that's why it is called the present" - Master Oogway, <i>Kung Fu Panda</i></p>
+
+<p>---</p>
+
+<p>[10]</p>
 
 
 
