@@ -59,7 +59,7 @@
 
 <p>---</p>
 
-<p>[6] Rendered by me from Paul Graham's essay, <a href = "https://paulgraham.com/conformism.html" target="_blank" <i>The Four Quadrants of Conformism</i></a></p>
+<p>[6] Rendered by me from Paul Graham's essay, <a href="https://paulgraham.com/conformism.html" target="_blank"><i>The Four Quadrants of Conformism</a></p>
 <table>
   <tr><td>AGGRESIVLY CONVENTIONALLY-MINDED INDIVIDUALS</td><td>AGGRESIVLY INDEPENDENT-MINDED INDIVIDUALS</td></tr>
   <tr><td>1. Believe the rules must be obeyed and people who disobey these rules should be punished.  2. Dislike outgroups. These are often the "tattletales".</td><td>1. When see a rule, the first impulse is to break it.  2. Often the "naughty" rule breaker types governed by "Eppur si muove"</td></tr>
@@ -73,7 +73,7 @@
 
 <p>---</p>
 
-<p>[8] If you can talk with crowds and keep your virtue,/ Or walk with Kings—nor lose the common touch,/ If neither foes nor loving friends can hurt you,/ If all men count with you, but none too much;/ If you can fill the unforgiving minute/ With sixty seconds’ worth of distance run,/ Yours is the Earth and everything that’s in it,/ And—which is more—you’ll be a Man, my son!- <a href = "https://www.poetryfoundation.org/poems/46473/if---" target ="_blank">Rudyard Kipling, <i>If</i></a></p>
+<p>[8] If you can talk with crowds and keep your virtue,/ Or walk with Kings—nor lose the common touch,/ If neither foes nor loving friends can hurt you,/ If all men count with you, but none too much;/ If you can fill the unforgiving minute/ With sixty seconds’ worth of distance run,/ Yours is the Earth and everything that’s in it,/ And—which is more—you’ll be a Man, my son! - <a href = "https://www.poetryfoundation.org/poems/46473/if---" target ="_blank">Rudyard Kipling, <i>If</i></a></p>
 <p><i>Really, I have the entire poem written and posted; however, I find myself thinking about this final refrain quite frequently.</i></p>
 
 <p>---</p>
